@@ -1,0 +1,706 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\pages\\candidatepage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\pages\\candidatepage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\pages\\candidatepage\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\pages\\candidatepage\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\pages\\candidatepage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\pages\\candidatepage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\pages\\candidatepage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\pages\\candidatepage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\pages\\candidatepage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\pages\\candidatepage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\pages\\candidatepage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\pages\\candidatepage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\pages\\candidatepage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\pages\\candidatepage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\pages\\candidatepage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\pages\\candidatepage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\pages\\candidatepage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\pages\\candidatepage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\pages\\candidatepage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\pages\\candidatepage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\pages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\pages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E730C2-E3E0-434B-A346-706C4D014F73}|DAO\\DAO.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\dao\\hraccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E730C2-E3E0-434B-A346-706C4D014F73}|DAO\\DAO.csproj|solutionrelative:dao\\hraccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295CB367-A2E3-469B-AC95-3EE382C692EA}|Service\\Service.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\service\\hraccountserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295CB367-A2E3-469B-AC95-3EE382C692EA}|Service\\Service.csproj|solutionrelative:service\\hraccountserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\data\\candidatemanagement_duynmse173649context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\data\\candidatemanagement_duynmse173649context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5FB957-C7D0-4571-B218-1199F3C3ECD7}|BusinessObject\\BusinessObject.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\businessobject\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5FB957-C7D0-4571-B218-1199F3C3ECD7}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\candidatemanagement_duynmse173649.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\candidatemanagement_duynmse173649.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\pages\\loginfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\pages\\loginfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E730C2-E3E0-434B-A346-706C4D014F73}|DAO\\DAO.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\dao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2E730C2-E3E0-434B-A346-706C4D014F73}|DAO\\DAO.csproj|solutionrelative:dao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E730C2-E3E0-434B-A346-706C4D014F73}|DAO\\DAO.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\dao\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E730C2-E3E0-434B-A346-706C4D014F73}|DAO\\DAO.csproj|solutionrelative:dao\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\candidatemanagement_duynmse173649.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\candidatemanagement_duynmse173649.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\candidatemanagement_duynmse173649\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B6F0EF-C392-465C-B9D2-A81077A5AD12}|CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj|solutionrelative:candidatemanagement_duynmse173649\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA17540E-B716-4172-B4E8-8E58BD589BEF}|Repository\\Repository.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\repository\\jobpostingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA17540E-B716-4172-B4E8-8E58BD589BEF}|Repository\\Repository.csproj|solutionrelative:repository\\jobpostingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295CB367-A2E3-469B-AC95-3EE382C692EA}|Service\\Service.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\service\\jobpostingserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295CB367-A2E3-469B-AC95-3EE382C692EA}|Service\\Service.csproj|solutionrelative:service\\jobpostingserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295CB367-A2E3-469B-AC95-3EE382C692EA}|Service\\Service.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\service\\candidateprofileserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295CB367-A2E3-469B-AC95-3EE382C692EA}|Service\\Service.csproj|solutionrelative:service\\candidateprofileserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295CB367-A2E3-469B-AC95-3EE382C692EA}|Service\\Service.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{295CB367-A2E3-469B-AC95-3EE382C692EA}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA17540E-B716-4172-B4E8-8E58BD589BEF}|Repository\\Repository.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\repository\\candidateprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA17540E-B716-4172-B4E8-8E58BD589BEF}|Repository\\Repository.csproj|solutionrelative:repository\\candidateprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA17540E-B716-4172-B4E8-8E58BD589BEF}|Repository\\Repository.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\repository\\hraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA17540E-B716-4172-B4E8-8E58BD589BEF}|Repository\\Repository.csproj|solutionrelative:repository\\hraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E730C2-E3E0-434B-A346-706C4D014F73}|DAO\\DAO.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\dao\\jobpostingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E730C2-E3E0-434B-A346-706C4D014F73}|DAO\\DAO.csproj|solutionrelative:dao\\jobpostingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA17540E-B716-4172-B4E8-8E58BD589BEF}|Repository\\Repository.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA17540E-B716-4172-B4E8-8E58BD589BEF}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E730C2-E3E0-434B-A346-706C4D014F73}|DAO\\DAO.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\dao\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E730C2-E3E0-434B-A346-706C4D014F73}|DAO\\DAO.csproj|solutionrelative:dao\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E730C2-E3E0-434B-A346-706C4D014F73}|DAO\\DAO.csproj|e:\\fpt\\prn221\\prn221pe_fa22_trialtest_duynmse173649\\dao\\dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2E730C2-E3E0-434B-A346-706C4D014F73}|DAO\\DAO.csproj|solutionrelative:dao\\dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\source\\repos\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\Privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\source\\repos\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_Duynmse173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\List.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\List.cshtml.cs",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_Duynmse173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\List.cshtml.cs",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\List.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:06:34.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_Duynmse173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\List.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\List.cshtml",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_Duynmse173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\List.cshtml",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T10:06:34.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Edit.cshtml",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Edit.cshtml",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T10:06:33.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Details.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Details.cshtml",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Details.cshtml",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T10:06:33.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Create.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Create.cshtml",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Create.cshtml",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T10:06:32.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Details.cshtml.cs",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Details.cshtml.cs",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:06:33.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Delete.cshtml.cs",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Delete.cshtml.cs",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:06:33.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Delete.cshtml",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Delete.cshtml",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T10:06:33.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Edit.cshtml.cs",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Edit.cshtml.cs",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:06:33.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Create.cshtml.cs",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Create.cshtml.cs",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Pages\\CandidatePage\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:06:33.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HraccountServ.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\Service\\HraccountServ.cs",
+              "RelativeDocumentMoniker": "Service\\HraccountServ.cs",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\Service\\HraccountServ.cs",
+              "RelativeToolTip": "Service\\HraccountServ.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:48:42.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\Home.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Pages\\Home.cshtml",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\Home.cshtml",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Pages\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T08:28:50.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CandidateManagement_DuyNMSE173649Context.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Data\\CandidateManagement_DuyNMSE173649Context.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Data\\CandidateManagement_DuyNMSE173649Context.cs",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Data\\CandidateManagement_DuyNMSE173649Context.cs",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Data\\CandidateManagement_DuyNMSE173649Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:58:34.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CandidateProfile.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\BusinessObject\\CandidateProfile.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\CandidateProfile.cs",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\BusinessObject\\CandidateProfile.cs",
+              "RelativeToolTip": "BusinessObject\\CandidateProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:56:49.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginFail.cshtml",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\LoginFail.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Pages\\LoginFail.cshtml",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\LoginFail.cshtml",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Pages\\LoginFail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T09:17:54.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Program.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Program.cs",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Program.cs",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:38:18.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\appsettings.json",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\appsettings.json",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\appsettings.json",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T07:38:32.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\DAO\\appsettings.json",
+              "RelativeDocumentMoniker": "DAO\\appsettings.json",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\DAO\\appsettings.json",
+              "RelativeToolTip": "DAO\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T04:38:13.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CandidateManagement_DuyNMSE173649.csproj",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_Duynmse173649\\CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_Duynmse173649\\CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T03:14:14.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Pages\\Error.cshtml.cs",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:42:10.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CandidateManagement_DuyNMSE173649",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_Duynmse173649\\CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_Duynmse173649\\CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\CandidateManagement_DuyNMSE173649.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T08:27:32.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Pages\\Error.cshtml",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\Error.cshtml",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T07:34:54.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T07:39:38.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T07:35:01.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T07:35:18.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T07:35:17.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:42:33.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T07:34:48.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagement_DuyNMSE173649\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\CandidateManagement_DuyNMSE173649\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CandidateManagement_DuyNMSE173649\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T07:38:17.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CandidateProfileServ.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\Service\\CandidateProfileServ.cs",
+              "RelativeDocumentMoniker": "Service\\CandidateProfileServ.cs",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\Service\\CandidateProfileServ.cs",
+              "RelativeToolTip": "Service\\CandidateProfileServ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:49:17.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JobPostingRepo.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\Repository\\JobPostingRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\JobPostingRepo.cs",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\Repository\\JobPostingRepo.cs",
+              "RelativeToolTip": "Repository\\JobPostingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:28:33.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "JobPostingServ.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\Service\\JobPostingServ.cs",
+              "RelativeDocumentMoniker": "Service\\JobPostingServ.cs",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\Service\\JobPostingServ.cs",
+              "RelativeToolTip": "Service\\JobPostingServ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:47:21.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CandidateProfileRepo.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\Repository\\CandidateProfileRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\CandidateProfileRepo.cs",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\Repository\\CandidateProfileRepo.cs",
+              "RelativeToolTip": "Repository\\CandidateProfileRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:28:03.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HraccountRepo.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\Repository\\HraccountRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\HraccountRepo.cs",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\Repository\\HraccountRepo.cs",
+              "RelativeToolTip": "Repository\\HraccountRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:27:03.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_Duynmse173649\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_Duynmse173649\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T04:30:38.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "JobPostingDAO.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\DAO\\JobPostingDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\JobPostingDAO.cs",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\DAO\\JobPostingDAO.cs",
+              "RelativeToolTip": "DAO\\JobPostingDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:51:33.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_Duynmse173649\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_Duynmse173649\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T04:30:49.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CandidateManagementContext.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\DAO\\CandidateManagementContext.cs",
+              "RelativeDocumentMoniker": "DAO\\CandidateManagementContext.cs",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\DAO\\CandidateManagementContext.cs",
+              "RelativeToolTip": "DAO\\CandidateManagementContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:36:11.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DAO.csproj",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_Duynmse173649\\DAO\\DAO.csproj",
+              "RelativeDocumentMoniker": "DAO\\DAO.csproj",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_Duynmse173649\\DAO\\DAO.csproj",
+              "RelativeToolTip": "DAO\\DAO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T04:31:02.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CandidateProfileDAO.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\DAO\\CandidateProfileDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\CandidateProfileDAO.cs",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\DAO\\CandidateProfileDAO.cs",
+              "RelativeToolTip": "DAO\\CandidateProfileDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:52:20.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HraccountDAO.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\DAO\\HraccountDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\HraccountDAO.cs",
+              "ToolTip": "E:\\FPT\\PRN221\\PRN221PE_FA22_TrialTest_DuyNMSE173649\\DAO\\HraccountDAO.cs",
+              "RelativeToolTip": "DAO\\HraccountDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:51:07.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

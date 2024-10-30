@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CandidateManagement_DuyNMSE173649.props" />
+</Project>

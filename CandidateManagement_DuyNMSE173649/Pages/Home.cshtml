@@ -1,0 +1,27 @@
+﻿@page
+@model CandidateManagement_DuyNMSE173649.Pages.HomeModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<h2>list all candidates</h2>
+
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Fullname</th>
+        <th>Birthday</th>
+        <th>Profile Short Description</th>
+        <th>Profile URL</th>
+    </tr>
+    @foreach (var item in Model.Candidates)
+    {
+        <tr>
+            <td>@item.CandidateId</td>
+            <td>@item.Fullname</td>
+            <td>@item.Birthday</td>
+            <td>@item.ProfileShortDescription</td>
+            <td>@item.ProfileUrl</td>
+        </tr>
+    }
+</table>
